@@ -12,9 +12,9 @@
     <main role="main">
         @yield('content')
     </main>
-    @include('includes.jsfooter');
+    @include('includes.jsfooter')
     <footer>
-        @include('includes.footer');
+        @include('includes.footer')
     </footer>
 </div>
 </body>
